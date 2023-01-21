@@ -1,0 +1,240 @@
+2022-09-10 21:12:34 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[30036]: INFO: Validating variable presence
+2022-09-10 21:12:34 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[30036]: INFO: Done validating variable presence
+2022-09-10 21:12:34 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[30036]: INFO: Validating common dimensions
+2022-09-10 21:12:34 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[30036]: INFO: Done validating common dimensions
+2022-09-10 21:12:34 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[30036]: INFO: Creating C:/Arpita/Projects/AndreNelson/out.txt
+2022-09-10 21:12:34 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[30036]: ERROR: create_timeseries.py[main[line 893]]: create_timeseries.py[create_time_series[line 818]]: create_timeseries.py[copy_dimensions[line 482]]: 'dict' object has no attribute 'iteritems'
+2022-09-10 21:12:56 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[3644]: INFO: Validating variable presence
+2022-09-10 21:12:56 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[3644]: INFO: Done validating variable presence
+2022-09-10 21:12:56 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[3644]: INFO: Validating common dimensions
+2022-09-10 21:12:56 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[3644]: INFO: Done validating common dimensions
+2022-09-10 21:12:56 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[3644]: INFO: Creating C:/Arpita/Projects/AndreNelson/out.txt
+2022-09-10 21:12:56 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[3644]: ERROR: create_timeseries.py[main[line 893]]: create_timeseries.py[create_time_series[line 818]]: create_timeseries.py[copy_dimensions[line 482]]: 'dict' object has no attribute 'iteritems'
+2022-09-10 21:12:59 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[40800]: INFO: Validating variable presence
+2022-09-10 21:12:59 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[40800]: INFO: Done validating variable presence
+2022-09-10 21:12:59 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[40800]: INFO: Validating common dimensions
+2022-09-10 21:12:59 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[40800]: INFO: Done validating common dimensions
+2022-09-10 21:12:59 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[40800]: INFO: Creating C:/Arpita/Projects/AndreNelson/out.txt
+2022-09-10 21:16:06 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[38748]: INFO: Validating variable presence
+2022-09-10 21:16:09 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[38748]: INFO: Done validating variable presence
+2022-09-10 21:16:59 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[38748]: INFO: Validating common dimensions
+2022-09-10 21:19:24 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[38748]: INFO: Done validating common dimensions
+2022-09-10 21:19:49 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[38748]: INFO: Creating C:/Arpita/Projects/AndreNelson/out.txt
+2022-09-10 21:20:41 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[38748]: ERROR: create_timeseries.py[main[line 893]]: create_timeseries.py[create_time_series[line 818]]: create_timeseries.py[copy_dimensions[line 482]]: 'dict' object has no attribute 'iteritems'
+2022-09-10 21:25:07 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[34408]: INFO: Validating variable presence
+2022-09-10 21:25:07 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[34408]: INFO: Done validating variable presence
+2022-09-10 21:25:07 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[34408]: INFO: Validating common dimensions
+2022-09-10 21:25:07 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[34408]: INFO: Done validating common dimensions
+2022-09-10 21:25:07 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[34408]: INFO: Creating C:/Arpita/Projects/AndreNelson/out.txt
+2022-09-10 21:25:07 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[34408]: ERROR: create_timeseries.py[main[line 893]]: create_timeseries.py[create_time_series[line 818]]: create_timeseries.py[copy_dimensions[line 482]]: 'dict' object has no attribute 'iteritems'
+2022-09-10 21:27:08 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[34348]: INFO: Validating variable presence
+2022-09-10 21:27:08 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[34348]: INFO: Done validating variable presence
+2022-09-10 21:27:08 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[34348]: INFO: Validating common dimensions
+2022-09-10 21:27:08 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[34348]: INFO: Done validating common dimensions
+2022-09-10 21:27:08 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[34348]: INFO: Creating C:/Arpita/Projects/AndreNelson/out.txt
+2022-09-10 21:27:08 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[34348]: INFO: Creating coordinate variable feature_id
+2022-09-10 21:27:08 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[34348]: INFO: Creating variable streamflow
+2022-09-10 21:27:08 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[34348]: ERROR: create_timeseries.py[main[line 894]]: create_timeseries.py[create_time_series[line 855]]: [WinError 32] The process cannot access the file because it is being used by another process: 'C:/Arpita/Projects/AndreNelson/out.txt'
+2022-09-10 21:27:40 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[38048]: INFO: Validating variable presence
+2022-09-10 21:27:40 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[38048]: INFO: Done validating variable presence
+2022-09-10 21:27:40 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[38048]: INFO: Validating common dimensions
+2022-09-10 21:27:40 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[38048]: INFO: Done validating common dimensions
+2022-09-10 21:27:40 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[38048]: INFO: Creating C:/Arpita/Projects/AndreNelson/out.txt
+2022-09-10 21:27:40 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[38048]: INFO: Creating coordinate variable feature_id
+2022-09-10 21:27:41 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[38048]: INFO: Creating variable streamflow
+2022-09-10 21:27:41 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[38048]: ERROR: create_timeseries.py[main[line 894]]: create_timeseries.py[create_time_series[line 855]]: [WinError 32] The process cannot access the file because it is being used by another process: 'C:/Arpita/Projects/AndreNelson/out.txt'
+2022-09-10 21:29:01 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[38908]: INFO: Validating variable presence
+2022-09-10 21:29:01 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[38908]: INFO: Done validating variable presence
+2022-09-10 21:29:01 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[38908]: INFO: Validating common dimensions
+2022-09-10 21:29:01 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[38908]: INFO: Done validating common dimensions
+2022-09-10 21:29:01 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[38908]: INFO: Creating C:/Arpita/Projects/AndreNelson/out.txt
+2022-09-10 21:29:01 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[38908]: INFO: Creating coordinate variable feature_id
+2022-09-10 21:29:46 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[38908]: INFO: Creating variable streamflow
+2022-09-10 21:30:55 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[31324]: INFO: Validating variable presence
+2022-09-10 21:30:55 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[31324]: INFO: Done validating variable presence
+2022-09-10 21:30:55 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[31324]: INFO: Validating common dimensions
+2022-09-10 21:30:55 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[31324]: INFO: Done validating common dimensions
+2022-09-10 21:30:55 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[31324]: INFO: Creating C:/Arpita/Projects/AndreNelson/out.txt
+2022-09-10 21:30:55 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[31324]: INFO: Creating coordinate variable feature_id
+2022-09-10 21:31:01 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[31324]: INFO: Creating variable streamflow
+2022-09-10 21:45:57 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[33020]: INFO: Validating variable presence
+2022-09-10 21:45:57 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[33020]: INFO: Done validating variable presence
+2022-09-10 21:45:57 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[33020]: INFO: Validating common dimensions
+2022-09-10 21:45:57 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[33020]: INFO: Done validating common dimensions
+2022-09-10 21:45:57 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[33020]: INFO: Creating C:/Arpita/Projects/AndreNelson/out_feature_id.txt
+2022-09-10 21:45:57 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[33020]: INFO: Creating coordinate variable feature_id
+2022-09-10 21:45:57 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[33020]: INFO: Creating variable feature_id
+2022-09-10 21:45:57 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[33020]: ERROR: create_timeseries.py[main[line 894]]: create_timeseries.py[create_time_series[line 842]]: create_timeseries.py[create_time_series_variable[line 678]]: _netCDF4.pyx[netCDF4._netCDF4.Dataset.createVariable[line 2838]]: _netCDF4.pyx[netCDF4._netCDF4.Variable.__init__[line 3985]]: _netCDF4.pyx[netCDF4._netCDF4._ensure_nc_success[line 1965]]: NetCDF: String match to name in use
+2022-09-10 21:46:56 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[39388]: INFO: Validating variable presence
+2022-09-10 21:46:56 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[39388]: INFO: Done validating variable presence
+2022-09-10 21:46:56 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[39388]: INFO: Validating common dimensions
+2022-09-10 21:46:56 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[39388]: INFO: Done validating common dimensions
+2022-09-10 21:46:56 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[39388]: INFO: Creating C:/Arpita/Projects/AndreNelson/out.txt
+2022-09-10 21:46:56 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[39388]: INFO: Creating coordinate variable feature_id
+2022-09-10 21:46:56 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[39388]: INFO: Creating variable feature_id
+2022-09-10 21:46:56 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[39388]: ERROR: create_timeseries.py[main[line 894]]: create_timeseries.py[create_time_series[line 842]]: create_timeseries.py[create_time_series_variable[line 678]]: _netCDF4.pyx[netCDF4._netCDF4.Dataset.createVariable[line 2838]]: _netCDF4.pyx[netCDF4._netCDF4.Variable.__init__[line 3985]]: _netCDF4.pyx[netCDF4._netCDF4._ensure_nc_success[line 1965]]: NetCDF: String match to name in use
+2022-09-10 21:47:17 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[14452]: INFO: Validating variable presence
+2022-09-10 21:47:17 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[14452]: INFO: Done validating variable presence
+2022-09-10 21:47:17 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[14452]: INFO: Validating common dimensions
+2022-09-10 21:47:17 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[14452]: INFO: Done validating common dimensions
+2022-09-10 21:47:17 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[14452]: INFO: Creating C:/Arpita/Projects/AndreNelson/out_crs.txt
+2022-09-10 21:47:17 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[14452]: INFO: Creating coordinate variable feature_id
+2022-09-10 21:47:17 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[14452]: INFO: Creating variable crs
+2022-09-10 21:47:17 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[14452]: ERROR: create_timeseries.py[main[line 894]]: create_timeseries.py[create_time_series[line 842]]: create_timeseries.py[create_time_series_variable[line 693]]: tuple index out of range
+2022-09-10 21:50:29 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[33888]: INFO: Validating variable presence
+2022-09-10 21:50:29 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[33888]: INFO: Done validating variable presence
+2022-09-10 21:50:29 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[33888]: INFO: Validating common dimensions
+2022-09-10 21:50:29 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[33888]: INFO: Done validating common dimensions
+2022-09-10 21:50:29 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[33888]: INFO: Creating C:/Arpita/Projects/AndreNelson/out_streamflow.txt
+2022-09-10 21:50:29 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[33888]: INFO: Creating coordinate variable feature_id
+2022-09-10 21:50:29 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[33888]: INFO: Creating variable streamflow
+2022-09-10 21:50:29 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[33888]: ERROR: create_timeseries.py[main[line 894]]: create_timeseries.py[create_time_series[line 855]]: [WinError 32] The process cannot access the file because it is being used by another process: 'C:/Arpita/Projects/AndreNelson/out_streamflow.txt'
+2022-09-10 21:51:29 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[27960]: INFO: Validating variable presence
+2022-09-10 21:51:29 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[27960]: INFO: Done validating variable presence
+2022-09-10 21:51:29 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[27960]: INFO: Validating common dimensions
+2022-09-10 21:51:29 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[27960]: INFO: Done validating common dimensions
+2022-09-10 21:51:29 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[27960]: INFO: Creating C:/Arpita/Projects/AndreNelson/out_streamflow.txt
+2022-09-10 21:51:29 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[27960]: INFO: Creating coordinate variable feature_id
+2022-09-10 21:51:29 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[27960]: INFO: Creating variable streamflow
+2022-09-10 21:51:29 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[27960]: ERROR: create_timeseries.py[main[line 894]]: create_timeseries.py[create_time_series[line 855]]: [WinError 32] The process cannot access the file because it is being used by another process: 'C:/Arpita/Projects/AndreNelson/out_streamflow.txt'
+2022-09-12 08:35:10 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[18660]: INFO: Validating variable presence
+2022-09-12 08:35:10 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[18660]: INFO: Done validating variable presence
+2022-09-12 08:35:10 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[18660]: INFO: Validating common dimensions
+2022-09-12 08:35:10 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[18660]: INFO: Done validating common dimensions
+2022-09-12 08:35:10 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[18660]: INFO: Creating C:/Arpita/Projects/AndreNelson/out_streamflow.txt
+2022-09-12 08:35:10 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[18660]: INFO: Creating coordinate variable feature_id
+2022-09-12 08:35:10 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[18660]: INFO: Creating variable streamflow
+2022-09-12 08:35:10 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[18660]: ERROR: create_timeseries.py[main[line 894]]: create_timeseries.py[create_time_series[line 855]]: [WinError 32] The process cannot access the file because it is being used by another process: 'C:/Arpita/Projects/AndreNelson/out_streamflow.txt'
+2022-09-12 08:44:57 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[33260]: INFO: Validating variable presence
+2022-09-12 08:44:57 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[33260]: INFO: Done validating variable presence
+2022-09-12 08:44:57 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[33260]: INFO: Validating common dimensions
+2022-09-12 08:44:57 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[33260]: INFO: Done validating common dimensions
+2022-09-12 08:44:57 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[33260]: ERROR: create_timeseries.py[main[line 894]]: create_timeseries.py[create_time_series[line 810]]: _netCDF4.pyx[netCDF4._netCDF4.Dataset.__init__[line 2353]]: _netCDF4.pyx[netCDF4._netCDF4._ensure_nc_success[line 1963]]: [Errno 13] Permission denied: b'C:/Arpita/Projects/AndreNelson/out_streamflow.txt'
+2022-09-12 08:45:17 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[19672]: INFO: Validating variable presence
+2022-09-12 08:45:17 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[19672]: INFO: Done validating variable presence
+2022-09-12 08:45:17 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[19672]: INFO: Validating common dimensions
+2022-09-12 08:45:17 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[19672]: INFO: Done validating common dimensions
+2022-09-12 08:45:17 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[19672]: INFO: Creating C:/Arpita/Projects/Anders_Nilsson/out_streamflow.txt
+2022-09-12 08:45:17 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[19672]: INFO: Creating coordinate variable feature_id
+2022-09-12 08:45:18 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[19672]: INFO: Creating variable streamflow
+2022-09-12 08:45:18 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[19672]: ERROR: create_timeseries.py[main[line 894]]: create_timeseries.py[create_time_series[line 855]]: [WinError 32] The process cannot access the file because it is being used by another process: 'C:/Arpita/Projects/Anders_Nilsson/out_streamflow.txt'
+2022-09-12 13:13:09 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[21920]: INFO: Validating variable presence
+2022-09-12 13:13:09 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[21920]: INFO: Done validating variable presence
+2022-09-12 13:13:09 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[21920]: INFO: Validating common dimensions
+2022-09-12 13:13:09 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[21920]: INFO: Done validating common dimensions
+2022-09-12 13:13:09 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[21920]: INFO: Creating C:/Arpita/Projects/Anders_Nilsson/out_streamflow.txt
+2022-09-12 13:13:09 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[21920]: INFO: Creating coordinate variable feature_id
+2022-09-12 13:13:09 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[21920]: INFO: Creating variable streamflow
+2022-09-12 13:13:09 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[21920]: ERROR: create_timeseries.py[main[line 894]]: create_timeseries.py[create_time_series[line 855]]: [WinError 32] The process cannot access the file because it is being used by another process: 'C:/Arpita/Projects/Anders_Nilsson/out_streamflow.txt'
+2022-09-12 13:14:01 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[35312]: INFO: Validating variable presence
+2022-09-12 13:14:01 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[35312]: INFO: Done validating variable presence
+2022-09-12 13:14:01 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[35312]: INFO: Validating common dimensions
+2022-09-12 13:14:01 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[35312]: INFO: Done validating common dimensions
+2022-09-12 13:14:01 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[35312]: INFO: Creating C:/Arpita/Projects/Anders_Nilsson/out_streamflow.txt
+2022-09-12 13:14:01 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[35312]: INFO: Creating coordinate variable feature_id
+2022-09-12 13:14:01 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[35312]: INFO: Creating variable streamflow
+2022-09-12 13:14:01 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[35312]: ERROR: create_timeseries.py[main[line 897]]: create_timeseries.py[create_time_series[line 858]]: [WinError 32] The process cannot access the file because it is being used by another process: 'C:/Arpita/Projects/Anders_Nilsson/out_streamflow.txt'
+2022-09-12 13:16:32 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[45296]: INFO: Validating variable presence
+2022-09-12 13:16:32 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[45296]: INFO: Done validating variable presence
+2022-09-12 13:16:32 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[45296]: INFO: Validating common dimensions
+2022-09-12 13:16:32 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[45296]: INFO: Done validating common dimensions
+2022-09-12 13:16:32 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[45296]: INFO: Creating C:/Arpita/Projects/Anders_Nilsson/out_streamflow.txt
+2022-09-12 13:16:32 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[45296]: INFO: Creating coordinate variable feature_id
+2022-09-12 13:16:33 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[45296]: INFO: Creating variable streamflow
+2022-09-12 13:16:33 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[45296]: ERROR: create_timeseries.py[main[line 898]]: create_timeseries.py[create_time_series[line 859]]: [WinError 32] The process cannot access the file because it is being used by another process: 'C:/Arpita/Projects/Anders_Nilsson/out_streamflow.txt'
+2022-09-12 13:17:52 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[37744]: INFO: Validating variable presence
+2022-09-12 13:17:52 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[37744]: INFO: Done validating variable presence
+2022-09-12 13:17:52 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[37744]: INFO: Validating common dimensions
+2022-09-12 13:17:52 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[37744]: INFO: Done validating common dimensions
+2022-09-12 13:17:52 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[37744]: INFO: Creating C:/Arpita/Projects/Anders_Nilsson/out_streamflow.txt
+2022-09-12 13:17:52 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[37744]: INFO: Creating coordinate variable feature_id
+2022-09-12 13:17:52 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[37744]: INFO: Creating variable streamflow
+2022-09-12 13:17:52 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[37744]: ERROR: create_timeseries.py[main[line 899]]: create_timeseries.py[create_time_series[line 860]]: [WinError 32] The process cannot access the file because it is being used by another process: 'C:/Arpita/Projects/Anders_Nilsson/out_streamflow.txt'
+2022-09-12 13:18:25 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[40440]: INFO: Validating variable presence
+2022-09-12 13:18:25 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[40440]: INFO: Done validating variable presence
+2022-09-12 13:18:25 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[40440]: INFO: Validating common dimensions
+2022-09-12 13:18:25 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[40440]: INFO: Done validating common dimensions
+2022-09-12 13:18:25 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[40440]: INFO: Creating C:/Arpita/Projects/Anders_Nilsson/out_streamflow.txt
+2022-09-12 13:18:25 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[40440]: INFO: Creating coordinate variable feature_id
+2022-09-12 13:18:25 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[40440]: INFO: Creating variable streamflow
+2022-09-12 13:18:25 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[40440]: ERROR: create_timeseries.py[main[line 899]]: create_timeseries.py[create_time_series[line 860]]: [WinError 32] The process cannot access the file because it is being used by another process: 'C:/Arpita/Projects/Anders_Nilsson/out_streamflow.txt'
+2022-09-12 13:19:27 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[39332]: INFO: Validating variable presence
+2022-09-12 13:19:27 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[39332]: INFO: Done validating variable presence
+2022-09-12 13:19:27 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[39332]: INFO: Validating common dimensions
+2022-09-12 13:19:27 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[39332]: INFO: Done validating common dimensions
+2022-09-12 13:19:27 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[39332]: INFO: Creating C:/Arpita/Projects/Anders_Nilsson/out_streamflow.txt
+2022-09-12 13:19:27 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[39332]: INFO: Creating coordinate variable feature_id
+2022-09-12 13:19:28 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[39332]: INFO: Creating variable streamflow
+2022-09-12 13:19:28 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[39332]: ERROR: create_timeseries.py[main[line 900]]: create_timeseries.py[create_time_series[line 861]]: [WinError 32] The process cannot access the file because it is being used by another process: 'C:/Arpita/Projects/Anders_Nilsson/out_streamflow.txt'
+2022-09-12 13:20:08 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[29548]: INFO: Validating variable presence
+2022-09-12 13:20:08 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[29548]: INFO: Done validating variable presence
+2022-09-12 13:20:08 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[29548]: INFO: Validating common dimensions
+2022-09-12 13:20:08 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[29548]: INFO: Done validating common dimensions
+2022-09-12 13:20:08 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[29548]: INFO: Creating C:/Arpita/Projects/Anders_Nilsson/out_streamflow.txt
+2022-09-12 13:20:08 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[29548]: INFO: Creating coordinate variable feature_id
+2022-09-12 13:20:08 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[29548]: INFO: Creating variable streamflow
+2022-09-12 13:20:08 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[29548]: ERROR: create_timeseries.py[main[line 902]]: create_timeseries.py[create_time_series[line 863]]: [WinError 32] The process cannot access the file because it is being used by another process: 'C:/Arpita/Projects/Anders_Nilsson/out_streamflow.txt'
+2022-09-12 13:21:34 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[27640]: INFO: Validating variable presence
+2022-09-12 13:21:34 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[27640]: INFO: Done validating variable presence
+2022-09-12 13:21:34 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[27640]: INFO: Validating common dimensions
+2022-09-12 13:21:34 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[27640]: INFO: Done validating common dimensions
+2022-09-12 13:21:34 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[27640]: INFO: Creating C:/Arpita/Projects/Anders_Nilsson/out_streamflow.txt
+2022-09-12 13:21:34 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[27640]: INFO: Creating coordinate variable feature_id
+2022-09-12 13:21:34 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[27640]: INFO: Creating variable streamflow
+2022-09-12 13:21:34 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[27640]: ERROR: create_timeseries.py[main[line 904]]: create_timeseries.py[create_time_series[line 865]]: [WinError 32] The process cannot access the file because it is being used by another process: 'C:/Arpita/Projects/Anders_Nilsson/out_streamflow.txt'
+2022-09-12 13:22:52 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[30596]: INFO: Validating variable presence
+2022-09-12 13:22:52 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[30596]: INFO: Done validating variable presence
+2022-09-12 13:22:52 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[30596]: INFO: Validating common dimensions
+2022-09-12 13:22:52 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[30596]: INFO: Done validating common dimensions
+2022-09-12 13:22:52 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[30596]: INFO: Creating C:/Arpita/Projects/Anders_Nilsson/out_streamflow.txt
+2022-09-12 13:22:52 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[30596]: INFO: Creating coordinate variable feature_id
+2022-09-12 13:22:52 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[30596]: INFO: Creating variable streamflow
+2022-09-12 13:22:52 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[30596]: ERROR: create_timeseries.py[main[line 904]]: create_timeseries.py[create_time_series[line 865]]: [WinError 32] The process cannot access the file because it is being used by another process: 'C:/Arpita/Projects/Anders_Nilsson/out_streamflow.txt'
+2022-09-12 13:24:27 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[8452]: INFO: Validating variable presence
+2022-09-12 13:24:27 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[8452]: INFO: Done validating variable presence
+2022-09-12 13:24:27 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[8452]: INFO: Validating common dimensions
+2022-09-12 13:24:27 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[8452]: INFO: Done validating common dimensions
+2022-09-12 13:24:27 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[8452]: INFO: Creating C:/Arpita/Projects/Anders_Nilsson/out_streamflow.txt
+2022-09-12 13:24:27 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[8452]: INFO: Creating coordinate variable feature_id
+2022-09-12 13:24:27 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[8452]: INFO: Creating variable streamflow
+2022-09-12 13:24:27 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[8452]: ERROR: create_timeseries.py[main[line 905]]: create_timeseries.py[create_time_series[line 866]]: [WinError 32] The process cannot access the file because it is being used by another process: 'C:/Arpita/Projects/Anders_Nilsson/out_streamflow.txt'
+2022-09-12 13:26:43 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[25424]: INFO: Validating variable presence
+2022-09-12 13:26:43 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[25424]: INFO: Done validating variable presence
+2022-09-12 13:26:43 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[25424]: INFO: Validating common dimensions
+2022-09-12 13:26:43 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[25424]: INFO: Done validating common dimensions
+2022-09-12 13:26:43 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[25424]: INFO: Creating C:/Arpita/Projects/Anders_Nilsson/out_streamflow.txt
+2022-09-12 13:26:43 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[25424]: INFO: Creating coordinate variable feature_id
+2022-09-12 13:26:43 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[25424]: INFO: Creating variable streamflow
+2022-09-12 13:26:43 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[25424]: ERROR: create_timeseries.py[main[line 905]]: create_timeseries.py[create_time_series[line 866]]: [WinError 32] The process cannot access the file because it is being used by another process: 'C:/Arpita/Projects/Anders_Nilsson/out_streamflow.txt'
+2022-09-12 14:06:50 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[36604]: INFO: Validating variable presence
+2022-09-12 14:06:50 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[36604]: INFO: Done validating variable presence
+2022-09-12 14:06:50 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[36604]: INFO: Validating common dimensions
+2022-09-12 14:06:50 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[36604]: INFO: Done validating common dimensions
+2022-09-12 14:06:50 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[36604]: INFO: Creating C:/Arpita/Projects/Anders_Nilsson/out_streamflow.txt
+2022-09-12 14:06:50 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[36604]: INFO: Creating coordinate variable feature_id
+2022-09-12 14:06:50 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[36604]: INFO: Creating variable streamflow
+2022-09-12 14:06:50 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[36604]: ERROR: create_timeseries.py[main[line 903]]: create_timeseries.py[create_time_series[line 864]]: [WinError 32] The process cannot access the file because it is being used by another process: 'C:/Arpita/Projects/Anders_Nilsson/out_streamflow.txt'
+2022-09-12 14:08:02 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[34032]: INFO: Validating variable presence
+2022-09-12 14:08:02 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[34032]: INFO: Done validating variable presence
+2022-09-12 14:08:02 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[34032]: INFO: Validating common dimensions
+2022-09-12 14:08:02 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[34032]: INFO: Done validating common dimensions
+2022-09-12 14:08:02 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[34032]: INFO: Creating C:/Arpita/Projects/Anders_Nilsson/out_streamflow.txt
+2022-09-12 14:08:02 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[34032]: INFO: Creating coordinate variable feature_id
+2022-09-12 14:08:03 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[34032]: INFO: Creating variable streamflow
+2022-09-12 14:08:03 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[34032]: ERROR: create_timeseries.py[main[line 903]]: create_timeseries.py[create_time_series[line 864]]: [WinError 32] The process cannot access the file because it is being used by another process: 'C:/Arpita/Projects/Anders_Nilsson/out_streamflow.txt'
+2022-09-12 14:37:32 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[40840]: INFO: Validating variable presence
+2022-09-12 14:37:32 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[40840]: INFO: Done validating variable presence
+2022-09-12 14:37:32 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[40840]: INFO: Validating common dimensions
+2022-09-12 14:37:32 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[40840]: INFO: Done validating common dimensions
+2022-09-12 14:37:32 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[40840]: INFO: Creating C:/Arpita/Projects/Anders_Nilsson/out_streamflow.txt
+2022-09-12 14:37:32 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[40840]: INFO: Creating coordinate variable feature_id
+2022-09-12 14:37:32 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[40840]: INFO: Creating variable streamflow
+2022-09-12 14:37:32 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[40840]: ERROR: create_timeseries.py[main[line 903]]: create_timeseries.py[create_time_series[line 864]]: [WinError 32] The process cannot access the file because it is being used by another process: 'C:/Arpita/Projects/Anders_Nilsson/out_streamflow.txt'
+2022-09-12 14:42:50 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[42256]: INFO: Validating variable presence
+2022-09-12 14:42:50 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[42256]: INFO: Done validating variable presence
+2022-09-12 14:42:50 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[42256]: INFO: Validating common dimensions
+2022-09-12 14:42:50 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[42256]: INFO: Done validating common dimensions
+2022-09-12 14:42:50 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[42256]: INFO: Creating C:/Arpita/Projects/Anders_Nilsson/out_streamflow.nc
+2022-09-12 14:42:50 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[42256]: INFO: Creating coordinate variable feature_id
+2022-09-12 14:42:50 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[42256]: INFO: Creating variable streamflow
+2022-09-12 14:42:50 Central Daylight Time CYB-1044H-APATEL create_timeseries.py[42256]: ERROR: create_timeseries.py[main[line 903]]: create_timeseries.py[create_time_series[line 864]]: [WinError 32] The process cannot access the file because it is being used by another process: 'C:/Arpita/Projects/Anders_Nilsson/out_streamflow.nc'

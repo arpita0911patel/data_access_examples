@@ -1,0 +1,110 @@
+from create_timeseries import create_time_series
+import time
+
+start_time = time.time()
+print("running medium_range files")
+logfile = "log_medium_range_test.txt"
+output_file = "nwm.t00z.medium_range_no_da.channel_rt.conus.nc"
+data_variables = ["streamflow"]
+chunk_size = 72000
+max_memory = 1e10
+time_variable = "time"
+reference_time_variable = "reference_time"
+removed_global_attributes = ""
+skip_missing = False
+
+input_files_medium_range = [
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f003.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f006.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f009.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f012.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f015.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f018.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f021.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f024.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f027.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f030.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f033.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f036.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f039.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f042.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f045.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f048.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f051.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f054.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f057.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f060.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f063.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f066.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f069.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f072.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f075.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f078.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f081.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f084.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f087.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f090.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f093.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f096.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f099.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f102.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f105.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f108.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f111.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f114.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f117.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f120.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f123.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f126.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f129.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f132.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f135.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f138.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f141.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f144.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f147.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f150.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f153.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f156.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f159.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f162.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f165.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f168.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f171.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f174.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f177.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f180.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f183.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f186.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f189.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f192.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f195.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f198.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f201.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f204.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f207.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f210.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f213.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f216.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f219.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f222.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f225.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f228.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f231.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f234.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f237.conus.nc",
+    "data/nwm.t00z.medium_range_no_da.channel_rt.f240.conus.nc",
+]
+
+output = create_time_series(
+    input_files_medium_range,
+    output_file,
+    data_variables,
+    time_variable,
+    reference_time_variable,
+    chunk_size,
+    max_memory,
+    removed_global_attributes,
+    skip_missing,
+)
+print(time.time() - start_time)
